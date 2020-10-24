@@ -1,3 +1,5 @@
+### DEPRECATED: Soma is not compatible with Ranvier 3+ and is no longer actively developed.
+
 # \<Soma\>
 
 Soma is the area builder for the Ranvier game engine
